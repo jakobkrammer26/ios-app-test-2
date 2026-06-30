@@ -1,0 +1,6 @@
+{
+  "name": "Smart Beleg-Scanner",
+  "description": "Ein intelligenter Beleg-Scanner und Ausgaben-Manager, der Belege mit Gemini ausliest, automatisch kategorisiert und wiederkehrende Ausgaben erkennt.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
